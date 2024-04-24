@@ -1,6 +1,7 @@
 #ifndef PROGRAM_NAME_HPP
 #define PROGRAM_NAME_HPP
 
+#include <cpptrace/cpptrace.hpp>
 #include <mutex>
 #include <string>
 
